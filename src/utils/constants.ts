@@ -1,0 +1,1 @@
+export const DUMMY_JSON_API_URL = 'https://dummyjson.com';
